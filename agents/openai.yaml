@@ -1,0 +1,4 @@
+interface:
+  display_name: "부드러운 모서리"
+  short_description: "CSS superellipse 모서리와 반경 보정, 미지원 브라우저 처리"
+  default_prompt: "$soft-corners를 사용해 지정한 요소에 주변 디자인과 어울리는 부드러운 모서리를 적용해줘."
